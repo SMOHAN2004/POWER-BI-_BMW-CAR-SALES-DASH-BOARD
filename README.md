@@ -5,15 +5,15 @@ Analyze BMW's worldwide sales trends from 2010 to 2024 to identify key regions, 
 ## Data set used
 - <a href="https://github.com/SMOHAN2004/POWER-BI-_BMW-CAR-SALES-DASH-BOARD/blob/main/BMW%20sales%20data.csv">Data set</a>
 ## Quetions kpi
--Asia is the top region, contributing 17% of global sales.
--Total Revenue: $3.75B from 253M units sold.
--Top Model: 7 Series — leads both in sales and units.
--EV Share: 50.67%, showing strong electric adoption.
--Average Price per Unit: $75K, confirming BMW’s premium positioning.
--Fuel Type Split: Nearly equal — Petrol, Diesel, Hybrid, Electric (~25% each).
--Automatic Transmissions dominate across all regions.
--Regional Mix: All six regions contribute almost equally (16–17% each).
--Luxury focus and balanced strategy drive stable, diversified performance.
+- Asia is the top region, contributing 17% of global sales.
+- Total Revenue: $3.75B from 253M units sold.
+- Top Model: 7 Series — leads both in sales and units.
+- EV Share: 50.67%, showing strong electric adoption.
+- Average Price per Unit: $75K, confirming BMW’s premium positioning.
+- Fuel Type Split: Nearly equal — Petrol, Diesel, Hybrid, Electric (~25% each).
+- Automatic Transmissions dominate across all regions.
+- Regional Mix: All six regions contribute almost equally (16–17% each).
+- Luxury focus and balanced strategy drive stable, diversified performance.
 - <a href="https://github.com/SMOHAN2004/POWER-BI-_BMW-CAR-SALES-DASH-BOARD/blob/main/BMW%20PROJECT%20DASHBOARD.png">View dashboard</a>
 ## Dash board 
 <img width="1296" height="726" alt="BMW PROJECT DASHBOARD" src="https://github.com/user-attachments/assets/1cdce7f1-dd88-40ba-aa28-e37a954c49ab" />
