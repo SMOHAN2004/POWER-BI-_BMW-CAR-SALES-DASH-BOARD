@@ -17,8 +17,8 @@ Luxury focus and balanced strategy drive stable, diversified performance.
 - <a href="https://github.com/SMOHAN2004/POWER-BI-_BMW-CAR-SALES-DASH-BOARD/blob/main/BMW%20PROJECT%20DASHBOARD.png">View dashboard</a>
 ## Dash board 
 <img width="1296" height="726" alt="BMW PROJECT DASHBOARD" src="https://github.com/user-attachments/assets/1cdce7f1-dd88-40ba-aa28-e37a954c49ab" />
-## Final conclution
-#Final Conclusion – BMW Global Sales Dashboard (2010–2024)
+
+## Final Conclusion – BMW Global Sales Dashboard (2010–2024)
 BMW’s global performance from 2010 to 2024 reflects a strategically balanced, innovation-driven growth trajectory. The data reveals a brand that has successfully navigated regional diversity, evolving fuel technologies, and premium market expectations.
 - Global Balance with Regional Strength: All six regions contribute nearly equally to sales, with Asia leading at 17%, underscoring BMW’s effective global footprint and market adaptability.
 - Premium Positioning Sustained: An average unit price of $75K reinforces BMW’s luxury brand equity, while the 7 Series emerges as the flagship performer in both revenue and volume.
