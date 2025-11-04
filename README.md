@@ -17,27 +17,13 @@ Analyze BMW's worldwide sales trends from 2010 to 2024 to identify key regions, 
 - <a href="https://github.com/SMOHAN2004/POWER-BI-_BMW-CAR-SALES-DASH-BOARD/blob/main/BMW%20PROJECT%20DASHBOARD.png">View dashboard</a>
 ## Dash board 
 <img width="1296" height="726" alt="BMW PROJECT DASHBOARD" src="https://github.com/user-attachments/assets/1cdce7f1-dd88-40ba-aa28-e37a954c49ab" />
-## Key Insights
-# Financial Performance
-Total Revenue: $3.75 Billion
-Units Sold: 253 Million
-Average Price per Unit: $75,000
-Market Position: Premium luxury segment
-# Regional Distribution
-Top Region: Asia (17% market share)
-Balanced Growth: All six regions contribute 16-17% each
-Geographic Diversification: Minimizes market risk
-# Model Performance
-Leading Model: 7 Series (45M units)
-Strong Luxury Lineup: 5 Series, X5, X3 showing consistent performance
-EV Success: iX and i4 models gaining significant traction
-# Electrification Strategy
-EV Market Share: 50.67%
-Growth Trajectory: From 2M units (2010) to 35M units (2024)
-Powertrain Balance: ~25% each for Petrol, Diesel, Hybrid, Electric
-Consumer Preferences
-# Transmission: 85% Automatic, 15% Manual
-Trend: Automatic transmissions dominate across all regions
+
+##  Key Insights
+- Financial Performance: $3.75B revenue from 253M units sold at an average price of $75K, confirming premium luxury positioning.
+- Regional Distribution: Asia leads with 17% share; all six regions contribute 16–17%, ensuring balanced global growth and reduced market risk.
+- Model Performance: 7 Series tops with 45M units; 5 Series, X5, X3 show consistent luxury strength; iX and i4 drive EV momentum.
+- Electrification Strategy: EVs reach 50.67% share, growing from 2M (2010) to 35M (2024); fuel mix evenly split across Petrol, Diesel, Hybrid, Electric.
+- Consumer Preferences: 85% of buyers prefer automatic transmissions, dominating across all regions and reflecting modern driving trends.
 
 ## Final Conclusion – BMW Global Sales Dashboard (2010–2024)
 BMW’s global performance from 2010 to 2024 reflects a strategically balanced, innovation-driven growth trajectory. The data reveals a brand that has successfully navigated regional diversity, evolving fuel technologies, and premium market expectations.
